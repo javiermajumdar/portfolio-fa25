@@ -1,26 +1,26 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: <Javier Majumdar> - Resume
 permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/Javier-Majumdar-Resume.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [jvm67@cornell.edu](mailto:jvm67@cornell.edu) | | | **Phone:** +1 475-228-5166
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring Mechanical engineering student with a strong foundation in CAD design and Analysis, Passionate about innovative Space and Defense technologies and eager to apply my knowledge in real-world applications.
 
 ---
 
 #### Education
 - **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  *Bachelor of Science in Mechanical Engineering*  
+  GPA: 3.8/4.0 | Graduation: May, 2027
 
 - **[High School Name]**  
   *High School Diploma*  
@@ -29,17 +29,17 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS Mechanical  
+- **Programming:** Python, MATLAB, SQL  
+- **Tools:** 3D Printing   
 
 ---
 
 #### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **RAT (Rate-Activated-Tether) Strap Simulation and Modeling (Titan Tether Technologies)**:  
+  *Translated Army-developed MATLAB model to Python, verified shear force behavior, and modeled the impact of different fluid and strap configurations under varying loading speeds. *  
+  - Presented findings to the Army Research Lab with force-displacement visualizations, material comparisons, and final design recommendations for VR headstraps and protective footwear  
+  - Performed FEA and created CAD model in SOLIDWORKS to analyze RAT under tensile loading  
 
 - **[Project Title]**:  
   *[Short Description]*  
@@ -63,7 +63,7 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
+- Member of ASME  
 - Volunteer for [Event/Organization Name]  
 
 ---
