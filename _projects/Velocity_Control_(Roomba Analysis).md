@@ -10,7 +10,7 @@ For this project, our team conducted an analysis of the Roomba robotic vacuum, f
 
 Velocity control is central to how a Roomba moves and responds to its surroundings. The Roomba adjusts its wheel speeds based on sensor inputs, which may include dirt detection sensors, obstacle sensors, cliff sensors, and surface hardness detection sensors [6]. These adjustments are controlled through a PID controller that manages the motor speed in RPM. Understanding the velocity control system provides insight into how the Roomba converts sensor inputs to motion through the wheels.
 
-<img src="{{ site.baseurl }}/assets/images/velocitycontrol.png" width="50%" alt="Figure 1 — Velocity Control Plot">
+<img src="{{ site.baseurl }}/assets/images/velocitycontrol.png" width="80%" alt="Figure 1 — Velocity Control Plot">
 
 To visualize the behavior of a closed-loop velocity controller, I created a MATLAB script that simulates the velocity response of a motor similar to that of a Roomba. Figure 1 shows the step response to a velocity setpoint of 300 RPM. The model I used to get the measured velocity curve was made using a simplified model of DC motor dynamics. The equation I used to model this was:
 ω(t)=300(1-e⁻⁰·⁰⁰⁸ᵗ) + 5 sin(0.01t)
