@@ -3,8 +3,9 @@ layout: default
 title: <Javier Majumdar> - Resume
 permalink: /cv/
 ---
-## Curriculum Vitae
 
+## Curriculum Vitae
+{% comment %}
 [Download my CV]({{ "/assets/Javier-Majumdar-Resume.pdf" | relative_url }}) in PDF format.
 
 
@@ -72,3 +73,4 @@ Aspiring Mechanical engineering student with a strong foundation in CAD design a
 Available upon request.
 
 ---
+{% endcomment %}
