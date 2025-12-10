@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Javier Majumdar
 description              : Javier Majumdar - Projects and CV 
-baseurl                  : "/fall-2025-portfolio-javiermajumdar" # Set this to your repo name 
+baseurl                  : "/portfolio-fa25" # Set this to your repo name 
 
 # Theme and Style
 theme: jekyll-theme-minimal
