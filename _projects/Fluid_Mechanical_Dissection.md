@@ -3,7 +3,7 @@ layout: project
 title: Fluid Mechanical Dissection Project
 description: Dissection and Analysis of Dirt Devil Vacuum
 technologies: Google Slides
-image: /assets/images/
+image: /assets/images/ddvacuum.png
 ---
 
 For this project, our team dissected and analyzed the fluid-mechanical operation of a Dirt Devil vacuum cleaner,focusing on its internal assembly, pressure generation, and relevant nondimensional flow parameters. 
